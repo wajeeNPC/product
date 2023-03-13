@@ -103,7 +103,7 @@ button{
    .img img{
     content:url("images/image-product-mobile.jpg");
    } 
-}
+
 
 .box{
     display:flex;
@@ -121,4 +121,5 @@ button{
     border-radius:15px;
     border-bottom-right-radius:0px;
     border-bottom-left-radius:0px;
+}
 }
